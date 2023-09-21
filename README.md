@@ -1,8 +1,8 @@
 Song Popularity Prediction Project Flowchart
 
-                       ┌──────────────────────────┐
-                       │**Download 'dataset.csv'**│
-                       └────────────┬─────────────┘
+                       ┌───────────────────────┐
+                       │ Download 'dataset.csv'│
+                       └────────────┬──────────┘
                                     │
                                     v
                    ┌────────────────────────────────────────┐
@@ -50,7 +50,7 @@ Song Popularity Prediction Project Flowchart
                        │ Future Directions     │
                        └───────────────────────┘
 
-# Song Popularity Prediction
+## Song Popularity Prediction
 
 Welcome to the **Song Popularity Prediction** project! This project is focused on building a machine-learning model to predict the popularity of songs based on various features available in the Spotify dataset.
 
