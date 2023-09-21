@@ -70,7 +70,7 @@ To run the notebooks successfully, you need to download the **[dataset.csv](http
 
 ## Note
 
-- Please ensure that you have the required Python libraries and dependencies installed (specified in `[requirements.txt](https://github.com/sai-gh/popularity-predictor/blob/main/requirment.txt)`).
+- Please ensure that you have the required Python libraries and dependencies installed (specified in [requirements.txt](https://github.com/sai-gh/popularity-predictor/blob/main/requirment.txt)).
 - Run the notebooks in the given order ('song_popularity_prediction_pre_model' first, then 'song_popularity_prediction_modeling') to follow the project flow.
 
 Happy predicting, and enjoy exploring the world of song popularity!
